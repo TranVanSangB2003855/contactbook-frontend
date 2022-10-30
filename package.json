@@ -1,5 +1,5 @@
 {
-  "name": " contactbook-frontend",
+  "name": "contactbook-frontend",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
