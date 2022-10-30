@@ -44,6 +44,7 @@
         </div>
     </div>
 </template>
+
 <script>
 import ContactCard from "@/components/ContactCard.vue";
 import InputSearch from "@/components/InputSearch.vue";
@@ -125,6 +126,7 @@ export default {
 
 };
 </script>
+
 <style scoped>
 .page {
     text-align: left;
